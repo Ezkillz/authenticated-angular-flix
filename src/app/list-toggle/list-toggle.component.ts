@@ -1,5 +1,5 @@
 import { Component, OnInit,Input } from '@angular/core';
-import {MovieService} from '../movie.service'
+import {MovieService} from '../Services/movie.service'
 @Component({
   selector: 'app-list-toggle',
   templateUrl: './list-toggle.component.html',
